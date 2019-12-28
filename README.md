@@ -1,2 +1,2 @@
 # sna19
-SNA Project 2019
+Social Network Analysis Project 2019
